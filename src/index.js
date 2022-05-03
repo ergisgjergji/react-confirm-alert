@@ -108,7 +108,7 @@ export default class ReactConfirmAlert extends Component {
 
     return (
       <div
-        className={`react-confirm-alert-overlay ${overlayClassName}`}
+        className={`react-confirm-alert-overlay ${overlayClassName ? overlayClassName : ''}`}
         ref={dom => (this.overlay = dom)}
         onClick={this.handleClickOverlay}
       >
