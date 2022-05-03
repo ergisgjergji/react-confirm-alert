@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ergisgjergji/react-confirm-alert"
+    "url": "git+https://github.com/ergisgjergji/react-confirm-alert.git"
   },
   "keywords": [
     "react alert example",
