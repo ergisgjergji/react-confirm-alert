@@ -1,7 +1,7 @@
 {
-  "name": "react-confirm-alert",
+  "name": "@ergisgjergji/react-confirm-alert",
   "version": "3.0.0",
-  "description": "react component confirm dialog.",
+  "description": "React 'confirm dialog' component.",
   "main": "lib/index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --inline",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GA-MO/react-confirm-alert.git"
+    "url": "https://github.com/ergisgjergji/react-confirm-alert"
   },
   "keywords": [
     "react alert example",
@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/GA-MO/react-confirm-alert/issues"
   },
-  "homepage": "https://github.com/GA-MO/react-confirm-alert",
+  "homepage": "https://github.com/ergisgjergji/react-confirm-alert",
   "typings": "./index.d.ts",
   "files": [
     "lib",
